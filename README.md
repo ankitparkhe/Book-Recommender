@@ -5,7 +5,7 @@ Using exploratory data analysis (EDA)
 2) Language distribution (English being the most common)
 3) Publication trends over time
 4) Correlations between ratings, reviews, and other features
-5) 
+
 Finally, I prepared the dataset for recommendation algorithms by analyzing ratings, reviews, and metadata to enable content-based or collaborative filtering approaches
 
 This project demonstrates my expertise in data wrangling, visualization, and recommender systems—skills essential
